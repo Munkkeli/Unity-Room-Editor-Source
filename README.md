@@ -9,7 +9,7 @@ Source code for a demo shown here: https://www.youtube.com/watch?v=aDapClJant4
 - Right mouse to remove painted room
 
 ## Features
-- A custom mesh romm creator
+- A custom mesh room creator
 - An old texture loader I made a long time ago
 - "Easy" to add new rooms
 
