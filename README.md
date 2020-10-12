@@ -14,3 +14,5 @@ Source code for a demo shown here: https://www.youtube.com/watch?v=aDapClJant4
 - "Easy" to add new rooms
 
 Requested by [Rekky Rek](https://www.youtube.com/user/DacexiGaming)
+
+No longer updated or maintained :(
